@@ -12,6 +12,6 @@
 
 |  |  |
 |--|--|
-| NIM | **nim** |
-| Nama Lengkap | **nama** |
+| NIM | **21104410003** |
+| Nama Lengkap | **Muhammad Izza Al-manfaluti** |
 | Kelas | TI-4A |
